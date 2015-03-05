@@ -10,7 +10,7 @@ poder llevar a cabo la codificación y decodificación.
 
 Algoritmos implementados en el lenguaje Ada, creado con fines académicos y educativos.
 
-Autor: Carlos Marín, 05.02.2015
+Autor: Carlos Marín, 05.03.2015
 
 -------------------------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ performe the encoding and decoding.
 
 Algorithms implemented in the Ada language, created for academic and educational purposes.
 
-Author: Carlos Marin, 02/05/2015
+Author: Carlos Marin, 03/05/2015
