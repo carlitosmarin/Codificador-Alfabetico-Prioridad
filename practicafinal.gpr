@@ -1,0 +1,6 @@
+project PracticaFinal is
+
+   for Main use ("Codificar.adb", "Constructor.adb", "Decodificar.adb");
+
+end PracticaFinal;
+
